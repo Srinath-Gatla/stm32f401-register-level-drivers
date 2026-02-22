@@ -14,7 +14,7 @@ to understand STM32 architecture and hardware-level control.
 
 ## 🧠 Implemented Drivers
 
-- RCC (AHB1 clock enable)
+- RCC (AHB1 clock enable) is implemented inside GPIO driver for simplicity.
 - GPIO driver
   - Mode configuration
   - Output control
@@ -36,7 +36,6 @@ ARM Cortex-M4
 
 - Direct register access
 - Memory-mapped peripheral control
-- RCC clock enable is implemented inside GPIO driver for simplicity.
 - No HAL
 - No STM32Cube drivers
 
