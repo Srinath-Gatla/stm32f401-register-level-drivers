@@ -36,6 +36,7 @@ ARM Cortex-M4
 
 - Direct register access
 - Memory-mapped peripheral control
+- RCC clock enable is implemented inside GPIO driver for simplicity.
 - No HAL
 - No STM32Cube drivers
 
