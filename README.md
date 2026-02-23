@@ -20,7 +20,7 @@ to understand STM32 architecture and hardware-level control.
   - Output control
   - Input reading
   - Pull-up / Pull-down configuration
-- LED Blink application
+- LED Blink application which displays 8 bit binary number notation
 - Button controlled LED
 
 ---
